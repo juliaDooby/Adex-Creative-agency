@@ -1,4 +1,4 @@
-<!--
+<!-->
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/adex)
@@ -53,4 +53,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
--->
+
