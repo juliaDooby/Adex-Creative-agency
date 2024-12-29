@@ -1,30 +1,73 @@
-<!-->
-<div align="center">
-  
-  <!--![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/adex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/adex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/adex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/5Bl3CCizSRQ?style=social)](https://youtu.be/5Bl3CCizSRQ)-->
+<!--
+## >Adex - Business Agency Website
 
-  <br />
-  <br />
+![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 
-  <h2 align="center">Adex - Business Agency Website</h2>
+  <h2 align="center"</h2>
 
   Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥Demo</strong></a>
 
-</div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
 
-<br />
+---
 
-### Demo Screeshots
+### Master modern web development by building an improved version of Spotify Music-app-2.0 with: 
+---
+- a modern homepage, 
+- fully-fledged music player, 
+- search, 
+- lyrics, 
+- song exploration features, 
+- search, 
+- popular music around you, 
+- worldwide top charts, 
+- and much more
+  
+---
+### Features:
+##### Here's features included in this project
 
-![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
+ - Discover Section
+ - Rapid API Music Fetching
+- Loader Component
+- Error Component
+- Song Card Component
+- Play/Pause Functionality
+- Sidebar
+- Top Play Section
+- Top Chart Card 
+- Top Artist - Swiper Component
+- Song Details Page
+- Artist Details Page
+- Around You, Top Charts & Artists
+- Search
+- Deployment
 
-### Contact
+---
+What - i-ve done and used : 
+---
+- React functional components and their reusability
+- React file and folder structure
+- Redux Toolkit to manage the state of application
+- mastery using Tailwind and make the app responsive on all devices
+- to fetch data from unlimited sources using RapidAPI.
+---
 
-If you want to contact with me you can reach me at []().
+### Technologies Used:
 
+---
+
+1. HTML5
+2. CSS3
+3. Javascript
+---
+-->
