@@ -6,11 +6,9 @@
 
   <a href="https://juliadooby.github.io/Adex-Creative-agency/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Adex-Creative-agency/blob/main/Adex_3.JPG" width="100%" height="20%"></img></div>
 
 ---
 
